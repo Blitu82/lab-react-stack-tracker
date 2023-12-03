@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+ul {
+  display: 'inline-block',
+  margin: '5px', // Adjust spacing between items
+  verticalAlign: 'top', // Align items vertically
+  listStyleType: 'none' // Remove bullet points
+}
